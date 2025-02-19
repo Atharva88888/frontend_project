@@ -1,4 +1,4 @@
- basic HTML files covering fundamental web development concepts.
+ basic HTML files covering fundamental web development concepts.its hust like task small basics
 🎯 Features
 ✔️ Basic HTML structure and elements
 ✔️ Simple CSS for styling

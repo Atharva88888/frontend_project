@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        .container {
+            width: 10cm;
+            height: 10cm;
+            border: solid;
+            overflow: hidden; 
+            /* display: none; */
+            position: fixed;
+        }
+
+        .box img {
+            width: 100%;
+            height: 100%;
+            transition: 0.3s; 
+        }
+
+        .container:hover .box img {
+            transform: scale(1.2); 
+            /* display: block; */
+
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="box">
+            <img src="/download1.jpg" alt="Image">
+    </div>
+
